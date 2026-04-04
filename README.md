@@ -1,7 +1,10 @@
-# Heba Adel Ali  
-**Data Science & AI | Machine Learning Engineer | Deep Learning**
+<h1 align="center">Heba Adel Ali</h1>
 
----
+<p align="center">
+  Data Science & AI | Machine Learning Engineer | Deep Learning
+</p>
+
+<br>
 
 ## About Me
 I am a Data Scientist passionate about turning data into meaningful insights and practical solutions.  
@@ -27,7 +30,7 @@ I aim to create data-driven solutions that are both accurate and impactful.
 - **Tools:** Jupyter Notebook, Google Colab  
 - **Version Control:** Git, GitHub  
 
-د
+
 ## Areas of Expertise
 
 - Machine Learning  
