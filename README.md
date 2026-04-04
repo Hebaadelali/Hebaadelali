@@ -3,8 +3,10 @@
 <p align="center">
   Data Science & AI | Machine Learning Engineer | Deep Learning
 </p>
-<hr>
 
+<p align="center">
+  ─────────────────────────────
+</p>
 ## About Me
 I am a Data Scientist passionate about turning data into meaningful insights and practical solutions.  
 I combine analytical thinking with curiosity, which helps me explore new techniques and continuously improve my skills.
