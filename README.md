@@ -1,12 +1,7 @@
 <h1 align="center">Heba Adel Ali</h1>
 
-<p align="center">
-  Data Science & AI | Machine Learning Engineer | Deep Learning
-</p>
+<h3 align="center">Data Science & AI | Machine Learning Engineer | Deep Learning</h3>
 
-<p align="center">
-  ─────────────────────────────
-</p>
 ## About Me
 I am a Data Scientist passionate about turning data into meaningful insights and practical solutions.  
 I combine analytical thinking with curiosity, which helps me explore new techniques and continuously improve my skills.
